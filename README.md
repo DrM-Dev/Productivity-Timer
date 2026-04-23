@@ -8,5 +8,6 @@ which follows this pattern:
 -> 25 min WORK -> 5 min break 
 -> 25min WORK -> finally 20-30min break
 :)
-_________________
+
+____________________
 *this python project was made using Tkinter GUI module
