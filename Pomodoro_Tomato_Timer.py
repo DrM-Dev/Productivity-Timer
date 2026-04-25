@@ -317,7 +317,7 @@ timer_text.place(x=19,y=-35)
 tomato_canvas = Canvas(width=200,height=224,bg=YELLOW, highlightthickness=0)
 #----
 #adding image:
-tomato_image = PhotoImage(file=r"tomato.png")
+tomato_image = PhotoImage(file=r"images/tomato.png")
 tomato_canvas.create_image(100,112, image=tomato_image) #x & y cor are the 1/2 amount of the canvas TO CENTER IT!
 #----
 #adding timer_text:
@@ -360,7 +360,7 @@ reset_button.place(x=255,y=270)
 # logo
 logo_canvas = Canvas(width=100,height=100,bg=YELLOW, highlightthickness=0)
 #
-logo_image = PhotoImage(file="logo_ico.png")
+logo_image = PhotoImage(file=r"images/logo_ico.png")
 logo_canvas.create_image(50,50, image=logo_image)
 logo_canvas.place(x=-60,y=320)
 
