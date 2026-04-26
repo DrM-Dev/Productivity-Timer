@@ -1,4 +1,4 @@
-# Pomodoro tomato productivity timer-v4
+# Pomodoro tomato productivity timer-0.1
 *Productivity-Timer*
 
 this simple program allows you to manage your times in sections following the "pomodoro technique" for productivity
